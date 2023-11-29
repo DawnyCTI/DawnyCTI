@@ -13,7 +13,7 @@
 <p align="left">
 🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE
 
-💻 Continúo aprendiendo el increíble mundo de la programación. 🙈)
+💻 Continúo aprendiendo el increíble mundo de la programación.
 
 🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.
 

@@ -5,21 +5,35 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dawny-chalas-telemaco-275608270/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-<br>
-
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mí 😃</h2>
 <!--Intro start-->
 <p align="left">
-  🎓 ESTUDIANTE DE DESARROLLO DE SOFTWARE
+  🌟 <strong>Estudiante de Desarrollo de Software en ITLA | Front-End Developer</strong> 🌟
+  <br><br>
+  🚀 <strong>Sobre mí:</strong><br>
+  Soy Dawny Chalas Telemaco, un apasionado estudiante de desarrollo de software en el Instituto Tecnológico de Las Américas (ITLA). Con un fuerte enfoque en el desarrollo front-end, estoy comprometido en crear experiencias web intuitivas y atractivas.
+  <br><br>
+  💡 <strong>Habilidades Técnicas:</strong><br>
+  <ul>
+    <li><strong>HTML:</strong> Dominio en la estructura y semántica de sitios web.</li>
+    <li><strong>CSS:</strong> Experto en estilos y diseño responsivo para interfaces de usuario atractivas.</li>
+    <li><strong>JavaScript:</strong> Habilidad para crear interactividad y dinamismo en aplicaciones web.</li>
+    <li><strong>PHP:</strong> Conocimientos en desarrollo back-end para crear aplicaciones web robustas.</li>
+    <li><strong>MySQL:</strong> Experiencia en la gestión y manipulación de bases de datos.</li>
+  </ul>
   <br>
-  💻 Continúo aprendiendo el increíble mundo de la programación.
-  <br>
-  🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.
-  <br>
-  📫 Contacto: dawnychalastelemaco@gmail.com
+  🔍 <strong>Objetivo:</strong><br>
+  Estoy en constante aprendizaje y búsqueda de nuevas oportunidades para aplicar mis habilidades y conocimientos en proyectos desafiantes. Mi objetivo es convertirme en un desarrollador integral que pueda abordar tanto el front-end como el back-end de las aplicaciones web.
+  <br><br>
+  📈 <strong>En busca de:</strong><br>
+  <ul>
+    <li>Oportunidades de empleo en desarrollo web.</li>
+    <li>Proyectos colaborativos donde pueda aportar y seguir aprendiendo.</li>
+    <li>Networking con profesionales de la industria tecnológica.</li>
+  </ul>
 </p>
 <!--Intro end-->
+
 
 <br>
 

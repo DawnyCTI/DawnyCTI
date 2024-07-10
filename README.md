@@ -68,7 +68,11 @@
   <a href="https://github.com/DawnyCTI/Proyecto-Final---Programacion-Web-DCT-Libreria">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DawnyCTI&repo=Proyecto-Final---Programacion-Web-DCT-Libreria&theme=dark" />
   </a>
+  <a href="https://github.com/DawnyCTI/PROYECTO-FINAL---GRUPO-STAT-CAST">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DawnyCTI&repo=PROYECTO-FINAL---GRUPO-STAT-CAST&theme=dark" />
+  </a>
 </div>
+
 
 
 <!-- Enlaces a redes sociales -->

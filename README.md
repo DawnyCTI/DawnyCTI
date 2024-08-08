@@ -5,6 +5,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dawny-chalas-telemaco-275608270/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
 <h2>Sobre mí 😃</h2>
 <!--Intro start-->
 <p align="left">
@@ -34,7 +35,6 @@
 </p>
 <!--Intro end-->
 
-
 <br>
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
@@ -46,19 +46,6 @@
 </p>
 
 <br>
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DawnyCTI&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <!--- Lenguaje más usado -->
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DawnyCTI&theme=dark&hide_border=false&layout=compact"/>
-</p>
-<!--- stats & Trophy (end) -->
-
-
 <!-- Repositorios destacados -->
 <h2>Repositorios destacados</h2>
 <div align="center">
@@ -73,11 +60,31 @@
   </a>
 </div>
 
-
-
 <!-- Enlaces a redes sociales -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dawny-chalas-telemaco-275608270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+<h2>GitHub :octocat:</h2>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DawnyCTI&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DawnyCTI&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnyCTI&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=DawnyCTI&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>

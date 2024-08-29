@@ -95,3 +95,6 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnyCTI&theme=radical" height="200em" width="822.5em" />
 </p>
 
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/mnpsnuwan/mnpsnuwan/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>

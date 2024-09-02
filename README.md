@@ -86,10 +86,6 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnyCTI&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
 
-<p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DawnyCTI&theme=radical" height="200em" width="455em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DawnyCTI&theme=radical" height="200em" width="455em" />
-</p>
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnyCTI&theme=radical" height="200em" width="822.5em" />

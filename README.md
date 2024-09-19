@@ -56,9 +56,10 @@
   <a href="https://github.com/DawnyCTI/ChatBot-ITLA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DawnyCTI&repo=ChatBot-ITLA&theme=radical" />
   </a>
-  <a href="https://github.com/DawnyCTI/Proyecto-Final---Programacion-Web-DCT-Libreria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DawnyCTI&repo=Proyecto-Final---Programacion-Web-DCT-Libreria&theme=radical" />
-  </a>
+<a href="https://github.com/DawnyCTI/Rastreo-de-IPs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DawnyCTI&repo=Rastreo-de-IPs&theme=radical" alt="Rastreo de IPs" />
+</a>
+
   <a href="https://github.com/DawnyCTI/PROYECTO-FINAL---GRUPO-STAT-CAST">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DawnyCTI&repo=PROYECTO-FINAL---GRUPO-STAT-CAST&theme=radical" />
   </a>
